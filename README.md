@@ -1,6 +1,8 @@
 # car-insurance
 
 ![image](https://github.com/pmama/car-insurance/assets/26107548/37357b03-0747-4ada-88e3-371f8db1c9f5)
+
+
 With increasing number of vehicles🚗🚖🚙🚘, number road accidents 💥 are also increasing, thus automobile insurance has progressively become an essential sector linked to global economic growth and people's lives. 
 People invest more money 💰💰💰💵💵💵 in buying policies and competition among insurance companies is getting tougher. However, a big problem for insurance companies is fraud, where people make false claims to get money. 
 This fraud not only hurts the profits of insurance companies, causing them to lose a lot of money, but it also affects how they decide on prices and the overall benefits for the company and society in the long run. 
